@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nghmyyy
-- 👀 I'm interested in enthusiastically mastering HTML, CSS, JavaScript, and ReactJS to craft engaging web experiences
 - 🌱 I'm currently learning IT at PTIT and teaching myself how to code.
 - 📫 How to reach me via e-mail at: hamynguyen0401@gmail.com
 
